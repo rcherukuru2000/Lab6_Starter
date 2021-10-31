@@ -1,0 +1,156 @@
+{
+"@context": "http://schema.org",
+
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicago Hot Dogs"
+,"datePublished": "2021-09-28T07:51:58.452-04:00"
+,"dateModified": "2021-09-28T07:51:58.452-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Liz Tarpy"
+,"description": "Over 25 years experience in the food industry. Developed recipes for HelloFresh USA and has contributed to multiple books and national publications."
+,"sameAs": [
+"https://www.instagram.com/liztarpy/",
+"https://www.simplyrecipes.com/liz-tarpy-5180990"
+]
+,"knowsAbout": ["Cocktails, Mediterranean cuisine, Regional American cuisine"]
+,"alumniOf": [
+{
+"@type": "Organization",
+"Name": "University of Maine: B.A in English Lit"
+},
+{
+"@type": "Organization",
+"Name": "Johnson & Wales: AS in Culinary Arts"
+}
+]
+}
+]
+,"description": "Don’t travel to the Windy City for this classic Chicago-style Hot Dog—it has all of the required components: an all-beef hot dog, yellow mustard, sweet pickle relish, tomatoes, onions, dill pickles, sport peppers, and celery salt."
+,"image": [
+{
+"@type": "ImageObject",
+"thumbnailUrl": "https://www.simplyrecipes.com/thmb/9yWqvjHP8qAfc7jyKifGYUsKi7Q=/6720x3780/smart/filters:no_upscale()/Simply-Recipes-Chicago-Dogs-LEAD-03-7c6acd733356499a9f306ddb17e88a6e.jpg",
+"height": 3780,
+"width": 6720
+},
+{
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/k1Plzs9-IZMIxJlvArKtDY4ndr8=/5973x4480/smart/filters:no_upscale()/Simply-Recipes-Chicago-Dogs-LEAD-03-7c6acd733356499a9f306ddb17e88a6e.jpg",
+"height": 4480,
+"width": 5973
+},
+{
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/Ur8aatL3IcoKhfSdszP-Nt3n6Uc=/4480x4480/smart/filters:no_upscale()/Simply-Recipes-Chicago-Dogs-LEAD-03-7c6acd733356499a9f306ddb17e88a6e.jpg",
+"height": 4480,
+"width": 4480
+}
+]
+,"publisher": {
+"@type": "Organization",
+"name": "Simply Recipes",
+"url": "https://www.simplyrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+"width": 1125,
+"height": 320
+},
+"brand": "Simply Recipes"
+, "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+}
+,"name": "Chicago Hot Dogs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT8M"
+,"keywords": "hot dog, all-beef hot dog, hot dog buns, sesame seed buns, sweet pickle relish, tomato, onion, dill pickle, pepperoncini, sport peppers, celery salt, Chicago Dog, Chicago Hot Dog, Chicago Style Hot Dog, Authentic Chicago Hot Dogs"
+,"prepTime": "PT10M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"8 all-beef natural casing hot dogs",
+"8 poppy seed hot dog buns or potato buns",
+"Yellow mustard for topping",
+"Sweet pickle relish for topping",
+"2 medium tomatoes, cut into 8 wedges each",
+"1 small yellow onion, diced",
+"8 dill pickle spears",
+"16 sport peppers or pepperoncini, whole or diced",
+"Celery salt for topping" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare the grill: Heat a charcoal or gas grill to medium heat, 350°F. You should be able to hold your hand over the grill for about 3 seconds before it’s too hot."
+} ,{
+"@type": "HowToStep"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/zfu4EN63r7he-bcgVFh8CEOSWz4=/6720x4480/filters:no_upscale()/Simply-Recipes-Chicago-Dogs-METHOD-04-44097069d5ea41c885c9e8bb34193d5c.jpg",
+"height": 4480,
+"width": 6720
+}
+,"text": "Grill the hot dogs: Place the hot dogs on the grill. Turn them with tongs as they cook, about 8 minutes total. You want a good amount of color on them. Transfer to a platter."
+} ,{
+"@type": "HowToStep"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/mFu_vH5xCkF1NXltcSkewINKAsg=/5759x3839/filters:no_upscale()/Simply-Recipes-Chicago-Dogs-LEAD-14-41fad39d9c5a4964a94bd440e1ad5b4a.jpg",
+"height": 3839,
+"width": 5759
+}
+,"text": "Build the Chicago dogs: Place a grilled hot dog in a bun. Top with yellow mustard, sweet pickle relish, 2 tomato wedges, onions, 1 dill pickle spear, and 2 sport peppers. The celery salt is strong, so you only need a light sprinkle over the dog to finish it up. Assemble the remaining hot dogs. Eat immediately!"
+} ]
+,"recipeYield": "4"
+,"totalTime": "PT18M"
+,"review": [
+{
+"@type": "Review",
+"author": {
+"@type": "Person",
+"name": "joecompute"
+},
+"reviewBody": "Nathan's famous hot dogs work just as well as the Vienna beef ones."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.simplyrecipes.com/chicago-hot-dogs-recipe-5202738"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.simplyrecipes.com/sausage-recipes-5090943",
+"name": "Sausages"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.simplyrecipes.com/hot-dog-recipes-5090939",
+"name": "Hot Dogs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.simplyrecipes.com/chicago-hot-dogs-recipe-5202738",
+"name": "Chicago Hot Dogs"
+}
+}
+]
+}
+}
+, "about": [
+]		
+}

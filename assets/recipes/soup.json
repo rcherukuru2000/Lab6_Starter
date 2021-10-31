@@ -1,0 +1,217 @@
+{
+"@context": "http://schema.org",
+
+"@type": ["Recipe"]
+,"headline": "Creamy Sweet Potato Soup"
+,"datePublished": "2007-11-11T18:35:46.000-05:00"
+,"dateModified": "2021-08-02T18:14:36.439-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Elise Bauer"
+,"description": "Elise founded Simply Recipes in 2003 and led the site until 2019. She has an MA in Food Research from Stanford University."
+,"jobTitle": "Founder"
+,"sameAs": [
+"https://www.instagram.com/elisebauer/",
+"https://www.simplyrecipes.com/elise-bauer-5091824"
+]
+,"knowsAbout": ["Scratch cooking with whole ingredients"]
+,"alumniOf": [
+{
+"@type": "Organization",
+"Name": "Stanford University: BS in Environmental Science; MA in Food Research; MBA from the Graduate School of Business "
+}
+]
+}
+]
+,"description": "Sweet potato soup balances the sweet and savory with onions, garlic, onions, and leeks, along with a bit of nutmeg and cinnamon. Creamy and satisfying!"
+,"image": [
+{
+"@type": "ImageObject",
+"thumbnailUrl": "https://www.simplyrecipes.com/thmb/gh8JIMLuRkSsSamj47VNfAI5Ifc=/1600x900/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__11__creamy-sweet-potato-soup-horiz-a-1600-d97f2731c09a44ea880e5d21871d43a2.jpg",
+"height": 900,
+"width": 1600
+},
+{
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/CW7sF4Uoq8dsQK3ig8IfnluBUvs=/1423x1067/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__11__creamy-sweet-potato-soup-horiz-a-1600-d97f2731c09a44ea880e5d21871d43a2.jpg",
+"height": 1067,
+"width": 1423
+},
+{
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/NcWC2eRLf3NrhA1o8bk5jrEi5hs=/1067x1067/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__11__creamy-sweet-potato-soup-horiz-a-1600-d97f2731c09a44ea880e5d21871d43a2.jpg",
+"height": 1067,
+"width": 1067
+}
+]
+,"publisher": {
+"@type": "Organization",
+"name": "Simply Recipes",
+"url": "https://www.simplyrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/QvixEwCD02s_lnkgkVb6mHwKS7c=/1125x320/filters:no_upscale():max_bytes(150000):strip_icc()/SimplyRecipesLogoTransparent-07a297c54b2142ae9c079abb2f0fa639.png",
+"width": 1125,
+"height": 320
+},
+"brand": "Simply Recipes"
+, "publishingPrinciples": "https://www.simplyrecipes.com/about-us-5096129#editorial-guidelines"
+}
+,"name": "Creamy Sweet Potato Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "35"
+}
+,"cookTime": "PT50M"
+,"keywords": "Freezer-friendly, Soup, Sweet Potato, Yam, American, Gluten-Free, Healthy, Vegetarian, Favorite Fall, Favorite Winter"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "186 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "311 mg"
+,"sugarContent": "9 g"
+,"fatContent": "9 g"
+,"servingSize": "Serves 6 to 8"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+, "recipeCategory": ["Soup","Freezer-friendly","Soup","Sweet Potato","Yam"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"2 tablespoons butter",
+"1 medium onion, chopped (about 1 cup)",
+"2 celery ribs, chopped",
+"1 medium leek, white and light green parts only, sliced (see How to Clean Leeks )",
+"1 clove garlic, chopped (1 teaspoon)",
+"1 1/2 pounds (about 2 large) orange-flesh sweet potatoes (a.k.a. yams), peeled, cut into 1-inch pieces (about 5 cups)",
+"4 cups chicken stock (use vegetable broth for vegetarian option)",
+"1 cinnamon stick",
+"1/4 teaspoon ground nutmeg",
+"1/4 cup heavy cream",
+"3/4 cup milk",
+"Salt",
+"Pepper",
+"1/4 cup sour cream or plain yogurt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/I3gk_42kb4J81EbLIv9NujrQVmI=/800x533/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__11__creamy-sweet-potato-soup-method-1-0a2a25647ba5487d8af462d59bc1d87d.jpg",
+"height": 533,
+"width": 800
+}
+,"text": "Cook the onions, celery, leeks, and garlic: Melt the butter in a large, thick-bottomed pot over medium-high heat. Add the chopped onions and sauté for 3 to 4 minutes, then add the celery and leeks and sauté for 5 more minutes until softened. Add the garlic and cook a minute more."
+} ,{
+"@type": "HowToStep"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/Xw0M3rZasaLig94cgOsUjecrW2A=/800x533/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__11__creamy-sweet-potato-soup-method-4-8d76ee5c6c3a4ddd8137c474eb24bf87.jpg",
+"height": 533,
+"width": 800
+}
+,"text": "Make and simmer the soup: Add the sweet potatoes, chicken stock, cinnamon stick, and nutmeg. Increase the heat to high and bring to a boil. Reduce to a simmer, and simmer uncovered until the sweet potatoes can be easily pierced with a fork, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.simplyrecipes.com/thmb/Zetu9FF_9RGKKbSQ6w9q-BaXxqw=/800x533/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__11__creamy-sweet-potato-soup-method-5-1acef9b8be9944ea88ef5900732e08aa.jpg",
+"height": 533,
+"width": 800
+}
+,"text": "Blend the soup: Remove the cinnamon stick. Use an immersion blender to purée the soup or work in batches and purée the soup in a standing blender."
+} ,{
+"@type": "HowToStep"
+,"text": "Finish the soup: Add the cream and milk to the soup. Heat on medium until the soup is heated through. Add salt and pepper to taste. Sprinkle with more black pepper and swirl some water-thinned sour cream or plain yogurt over the soup to serve."
+} ]
+,"recipeYield": "8"
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "Tasty soup. We are a savory rather than sweet family fir main course meals, so we went with coconut milk (1/2 can), Siracha sauce, and lime juice. Serve very hot; it will warm on several levels."
+}
+,
+{
+"@type": "Review",
+"author": {
+"@type": "Person",
+"name": "Susan"
+},
+"reviewBody": "I used coconut milk instead of cream and it was delish!"
+}
+,
+{
+"@type": "Review",
+"author": {
+"@type": "Person",
+"name": "chris"
+},
+"reviewBody": "Wow delicious with the vanilla yogurt with it!"
+}
+,
+{
+"@type": "Review",
+"author": {
+"@type": "Person",
+"name": "chris"
+},
+"reviewBody": "This will be my first attempt to make, although I don't have regular yogurt at hand... can I use vanilla flavored yogurt? Would it still taste as good since it does have sugar too....?"
+}
+,
+{
+"@type": "Review",
+"author": {
+"@type": "Person",
+"name": "Amanda"
+},
+"reviewBody": "Really happy with how this soup turned out. I used homemade stock and needed to add at least a teaspoon of salt to bring out the flavours. I also used an additional cinnamon stick and another 1/4 teaspoon of nutmeg. Yum. :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.simplyrecipes.com/recipes/creamy_sweet_potato_soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.simplyrecipes.com/soup-recipes-5091377",
+"name": "Soups"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.simplyrecipes.com/creamy-soup-recipes-5091370",
+"name": "Creamy Soups"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.simplyrecipes.com/recipes/creamy_sweet_potato_soup/",
+"name": "Creamy Sweet Potato Soup"
+}
+}
+]
+}
+}
+, "about": [
+]		
+}
